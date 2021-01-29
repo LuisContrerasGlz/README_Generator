@@ -24,4 +24,6 @@ THEN I am taken to the corresponding section of the README
 
 Walkthrough Video:
 
+https://www.youtube.com/watch?v=18YQXi6jAI8&feature=youtu.be
+
 ![alt text](./img.png)
