@@ -1,9 +1,9 @@
-Title: project title
-sections: sections
-Contents: table of contents
-Installation: Installation guide
-Usage: Usage Guide
+Title: Best Project ever
+sections: Start
+Contents: Explain, finished version, document
+Installation: no
+Usage: yes
 License: Free
-Contributing: Contributions
-Tests: Tests Guides
-Questions: Questions 
+Contributing: contrerasgonzalezluisfco
+Tests: no
+Questions: no
