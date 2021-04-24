@@ -24,7 +24,7 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
-Walkthrough Video:
+## Walkthrough Video Demo:
 
 https://www.youtube.com/watch?v=18YQXi6jAI8&feature=youtu.be
 
